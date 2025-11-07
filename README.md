@@ -17,6 +17,7 @@ There are few different versions in there with the growth charts.  Please feel f
 
 
 #### Usage:
-This is a 
+This is a ipynb file format.  Try importing it straight into your Notebook or copy and paste it into a .py file and run it.  
+Please remember to have your necessary libraries installed and correct IDE that can run those.
 
 
